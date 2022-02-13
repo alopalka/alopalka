@@ -23,5 +23,3 @@ https://opalkawegorzewo.pl/
 <img src="https://github-readme-stats.vercel.app/api?username=alopalka&count_private=false&show_icons=true&theme=github_dark">
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
