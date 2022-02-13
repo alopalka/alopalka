@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Aleksander
 
 - 🔭 Learning on my own Django and associated with it technologies
-- 🔍 Currently student of PJATK Gdańsk as extramural student 
+- 🌱 Currently focused on backend but my final goal is to become Fullstack Developer.
+- 🔍 Student of PJATK Gdańsk as extramural student ("s24399-pj" - my GitHub nick for academy things)
 - 📫 How to reach me: d3bian@mopalka.idl.pl
 - 🕵️ Looking for job as Django Junior Developer
 
