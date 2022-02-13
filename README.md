@@ -5,6 +5,6 @@
 - 📫 How to reach me: d3bian@mopalka.idl.pl
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=alopalka&hide=contribs,prs&show_icons=true&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopalka&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=alopalka&count_private=true&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopalka&theme=github_dark&count_private=true">
 </div>
