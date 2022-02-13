@@ -11,6 +11,10 @@ https://opalkawegorzewo.pl/
 
 <br>
 
+<!--START_SECTION:activity-->
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopalka&theme=github_dark&count_private=false&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=alopalka&count_private=false&show_icons=true&theme=github_dark">
 
