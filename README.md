@@ -4,7 +4,7 @@
 - 🌱 Currently focused on backend but my final goal is to become Fullstack Developer.
 - 🔍 Student of PJATK Gdańsk as extramural student ("s24399-pj" - my GitHub nick for academy things)
 - 📫 How to reach me: d3bian@mopalka.idl.pl
-- 🕵️ Looking for job as Django Junior Developer
+- 🕵️ Looking for job as Python(Django) Junior Developer
 
 ### Creator of this website(s):
 
