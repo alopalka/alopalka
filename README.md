@@ -9,6 +9,7 @@
 ### Creator of this website(s):
 
 https://opalkawegorzewo.pl/
+https://allmo.pl/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
