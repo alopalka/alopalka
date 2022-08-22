@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
-<h3 align="center">A passionate backend Python developer from Poland</h3>
+<h3 align="center">A passionate Python developer from Poland</h3>
 
 - 🔭 Learning on my own Django and associated with it technologies
 - 🌱 Currently focused on backend but my final goal is to become Fullstack Developer.
