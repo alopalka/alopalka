@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from Poland</h3>
 
 - 🔭 Learning on my own about Python, Django, Big Data and associated with it technologies
-- 🌱 Currently focused on backend but my final goal is to become Fullstack Developer.
+- 🌱 Currently looking for some comercial experience as python programmer to gain serious experience.
 - 🔍 Student of PJATK Gdańsk as extramural student ("s24399-pj" - my GitHub nick for academy things)
 - 📫 How to reach me: d3bian@mopalka.idl.pl
 
