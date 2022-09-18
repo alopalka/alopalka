@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aleksander</h1>
 <h3 align="center">A passionate Python developer from Poland</h3>
 
-- 🔭 Learning on my own Django and associated with it technologies
+- 🔭 Learning on my own about Python, Django, Big Data and associated with it technologies
 - 🌱 Currently focused on backend but my final goal is to become Fullstack Developer.
 - 🔍 Student of PJATK Gdańsk as extramural student ("s24399-pj" - my GitHub nick for academy things)
 - 📫 How to reach me: d3bian@mopalka.idl.pl
-- 🕵️ Looking for job as Python(Django) Junior Developer
 
 ### Creator of this website(s):
 
