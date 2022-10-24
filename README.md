@@ -3,6 +3,7 @@
 
 - 🔍 Student of PJATK Gdańsk as extramural student ("s24399-pj" - my GitHub nick for academy things)
 - 📫 How to reach me: d3bian@mopalka.idl.pl
+- 🌊 Looking for first commercial experience as Java Developer.
 
 ### Creator of this website(s):
 
