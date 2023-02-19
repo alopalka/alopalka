@@ -1,6 +1,6 @@
 # Aleksander Opałka 🤖 
 
-**` Novice Web Developer (Spring/Django) `**
+**` Aspiring Web Developer (Spring/Java) `**
 
 - 💨 Hi, i'm an passionate Web Developer. Here you'll find some projects that show my coding skills 😎. 
 - 💥 Currently i'm looking for my first commercial experience as a Java(Spring) Developer.
@@ -10,7 +10,7 @@
 
 ### Contacts 💬 
 Feel free to reach me about anything coding related. Questions, suggestions, comments and work proposals are welcome 🤗.
-d3bian@mopalka.idl.pl
+alopalka@proton.me
 <p align="left">
 <a href="https://linkedin.com/in/alopalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alopalka" height="30" width="40" /></a>
 <a href="https://fb.com/alopalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alopalka" height="30" width="40" /></a>
