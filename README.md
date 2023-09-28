@@ -33,8 +33,3 @@ alopalka@proton.me
 <img src="https://github-readme-stats.vercel.app/api?username=alopalka&count_private=false&show_icons=true&theme=github_dark">
 
 #
-
-<details>
- <summary><h3>My Coding Journey 👨‍💻</h3></summary>
-   My programming journey started when I was 18 years old in 2020. Back then Python was my main focus. I make many mistake such as not execising my skills and only learning. After that in August 2021 I got opportunity to start working on first semi-commercial project for my father company. Project was just a e-commerce shop which is integrated to Wapro-Mag DB. Doing that taught me a lot about full-stack development. It took me 1 year. Now website is finished.
- However after finishing that i started to look for a job as a Django Junior Developer in polish labor market. Focusing on python technologies was mistake due to fact that our labor market is occupied by Java and C#. The number of job offers was small. In October of 2022 i decided to start learning Java and now after hustling for few months i want to get job as a Trainee/Junior Java Developer.
