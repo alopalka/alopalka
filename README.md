@@ -1,10 +1,7 @@
 # Aleksander Opałka 🤖 
 
-**` Aspiring Web Developer (Spring/Java) `**
-
-- 💨 Hi, i'm an passionate Web Developer. Here you'll find some projects that show my coding skills 😎. 
-- 💥 Currently i'm looking for my first commercial experience as a Java(Spring) Developer.
-- 🔍 My main focus is to learn Java Backend technologies. Everything else is less important to me.
+**` Java Software Developer `**
+- 💨 Hi, i'm an passionate Web Developer. Here you'll find some of my open-source projects. 
 
 #
 
