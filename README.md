@@ -1,9 +1,7 @@
 # Aleksander Opałka 🤖 
 
 **` Java Software Developer `**
-- 💨 Hi, i'm an passionate Web Developer. Here you'll find some of my open-source projects. 
-
-#
+- 💨 Hi, i'm an passionate Web Developer.
 
 #
 
