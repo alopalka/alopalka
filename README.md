@@ -5,13 +5,6 @@
 
 #
 
-### Contacts 💬 
-Feel free to reach me about anything coding related. Questions, suggestions, comments and work proposals are welcome 🤗.
-alopalka@proton.me
-<p align="left">
-<a href="https://www.leetcode.com/alopalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alopalka" height="30" width="40" /></a>
-</p>
-
 #
 
 ### Languages and Tools 🧰
